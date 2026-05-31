@@ -140,4 +140,4 @@ ProgramNode
 
 ![Графическое AST](screenshots/6.png)
 
-![Графическое AST — несколько объявлений](7.png)
+![Графическое AST — несколько объявлений](screenshots/7.png)
