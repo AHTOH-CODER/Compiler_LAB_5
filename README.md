@@ -138,6 +138,6 @@ ProgramNode
 
 ### Скриншоты графического AST
 
-![Графическое AST](screenshots/ast_1.png)
+![Графическое AST](screenshots/6.png)
 
-![Графическое AST — несколько объявлений](screenshots/ast_2.png)
+![Графическое AST — несколько объявлений](7.png)
